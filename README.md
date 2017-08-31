@@ -1,2 +1,2 @@
 # hello-world
-New branche, readme-edits is created
+New branch, readme-edits is created.
